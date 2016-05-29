@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfTestingElectronicSystems.CSharp", "SelfTestingElectronicSystems.CSharp.csproj", "{B50E2087-E05E-2E4D-0313-823D8E60D8DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfTestingElectronicSystems.CSharp.Editor", "SelfTestingElectronicSystems.CSharp.Editor.csproj", "{A1F04E6C-F610-C563-A6B0-C6D752A2052A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50E2087-E05E-2E4D-0313-823D8E60D8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50E2087-E05E-2E4D-0313-823D8E60D8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50E2087-E05E-2E4D-0313-823D8E60D8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50E2087-E05E-2E4D-0313-823D8E60D8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F04E6C-F610-C563-A6B0-C6D752A2052A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F04E6C-F610-C563-A6B0-C6D752A2052A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F04E6C-F610-C563-A6B0-C6D752A2052A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F04E6C-F610-C563-A6B0-C6D752A2052A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
